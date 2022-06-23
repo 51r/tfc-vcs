@@ -9,7 +9,7 @@ variable "instance_type" {
 }
 
 variable "email" {
-  description = "This is an email tag for easily recognition"  
+  description = "This is an email tag for easily recognition"
 }
 
 variable "name" {
