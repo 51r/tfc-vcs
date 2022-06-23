@@ -1,5 +1,5 @@
 terraform {
-/*
+  /*
   cloud {
     organization = "hashicorp-test-peter"
 
