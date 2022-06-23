@@ -14,5 +14,4 @@ variable "email" {
 
 variable "name" {
   description = "this is an prefix name for the aws resources"
-  
 }
